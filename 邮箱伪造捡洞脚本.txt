@@ -1,0 +1,2 @@
+spf
+rf -rm domain.txt
